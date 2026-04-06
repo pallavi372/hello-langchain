@@ -1,13 +1,23 @@
 [project]
+<<<<<<< HEAD
 name = "hello-langchain"
+=======
+name = "hello-langgraph"
+>>>>>>> 7d2c471 (Added LangGraph hello project)
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+<<<<<<< HEAD
     "ipykernel>=7.2.0",
     "langchain>=1.2.13",
     "langchain-core>=1.2.23",
     "langchain-google-genai>=4.2.1",
     "python-dotenv>=1.2.2",
 ]
+=======
+    "langgraph>=1.1.3",
+    "langgraph-cli>=0.4.19",
+]
+>>>>>>> 7d2c471 (Added LangGraph hello project)
